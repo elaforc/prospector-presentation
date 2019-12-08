@@ -16,4 +16,6 @@
   "terminal.integrated.fontSize": 28,
   "terminal.integrated.shell.linux": "/bin/bash",
   "editor.formatOnSave": false,
+  "markdown.preview.fontSize": 22,
+  "markdown.preview.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
 }
